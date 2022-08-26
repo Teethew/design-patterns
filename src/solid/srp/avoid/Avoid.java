@@ -1,4 +1,4 @@
-package srp.avoid;
+package solid.srp.avoid;
 
 import java.io.FileNotFoundException;
 import java.io.PrintStream;

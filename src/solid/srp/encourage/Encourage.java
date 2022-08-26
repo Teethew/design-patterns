@@ -1,4 +1,4 @@
-package srp.encourage;
+package solid.srp.encourage;
 
 import java.io.File;
 import java.io.IOException;
